@@ -93,4 +93,3 @@ The dataset (`loan_approval_dataset.csv`) contains loan application records with
 
 **SarthakoZ**
 GitHub: [github.com/SarthakoZ](https://github.com/SarthakoZ)
-
