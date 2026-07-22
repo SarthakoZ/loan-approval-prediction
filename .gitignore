@@ -7,14 +7,17 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Environments
+# Virtual Environments
 .env
 .venv
 env/
 venv/
 *.egg-info/
 
-# OS files
+# Streamlit
+.streamlit/cache/
+
+# OS Files
 .DS_Store
 Thumbs.db
 
@@ -22,5 +25,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Jupyter runtime / logs
+# Logs
 *.log
